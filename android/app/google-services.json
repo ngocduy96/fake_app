@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598436279338",
+    "firebase_url": "https://duy96-a2317.firebaseio.com",
+    "project_id": "duy96-a2317",
+    "storage_bucket": "duy96-a2317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598436279338:android:15cbaafab42820c2387f53",
+        "android_client_info": {
+          "package_name": "com.example.login_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598436279338-m21bb531jdgv5efmibi17pujs5ir9v1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcn_kk2aKt3TMhHvWwVYEyItwrg5shxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598436279338-m21bb531jdgv5efmibi17pujs5ir9v1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598436279338-ed5prv5ti0n5tk6jv0qad22kup7k2b56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginForm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
